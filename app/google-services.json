@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476125477750",
+    "project_id": "storage-assigment",
+    "storage_bucket": "storage-assigment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476125477750:android:13110a4cc73dcd22a99857",
+        "android_client_info": {
+          "package_name": "com.example.storageassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476125477750-v08lrn4su0p9e8mgc8tc0aoe1bire7v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBry_Ph6ckj36P-i6amMR-76oCE2AP-AwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476125477750-v08lrn4su0p9e8mgc8tc0aoe1bire7v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
